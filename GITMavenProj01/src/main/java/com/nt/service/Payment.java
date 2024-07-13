@@ -9,5 +9,10 @@ public class Payment {
 	public  String  doUPIPayment() {
 		return " UpI Payment is done";
 	}
+	
+	
+	public   String   paypall(String url) {
+		return " Paypall integration is done";
+	}
 
 }
